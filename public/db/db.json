@@ -1,0 +1,76 @@
+{
+  "tweets": [
+    {
+      "user": {
+        "avatarUrl": "https://source.unsplash.com/random/100x100?6",
+        "fullName": "Eddie",
+        "nickName": "@morrow"
+      },
+      "id": 0,
+      "_id": "600471924a799f48eee53875",
+      "messageText": " Consectetur ex magna enim exercitation minim dolor ea elit ea sunt et eu. Ipsum veniam Lorem id adipisicing enim voluptate eiusmod incididunt ipsum proident non. Culpa deserunt labore aliquip enim est et minim. Sunt velit et quis nisi commodo ad magna. Excepteur eiusmod sunt voluptate nisi ullamco eu ad consequat. Ea dolor tempor incididunt voluptate anim cupidatat ex esse minim. Consequat ad eu eiusmod reprehenderit veniam esse mollit incididunt pariatur qui fugiat cupidatat. Dolore excepteur dolore non voluptate. Minim aliquip ipsum ea cupidatat ut enim reprehenderit dolore voluptate ad tempor aliquip. Sunt voluptate aliquip tempor veniam excepteur adipisicing irure in cupidatat nisi. "
+    },
+    {
+      "user": {
+        "avatarUrl": "https://source.unsplash.com/random/100x100?1",
+        "fullName": "Reese",
+        "nickName": "@kathy"
+      },
+      "id": 1,
+      "_id": "600471921154310b24b6c8a1",
+      "messageText": " Nostrud reprehenderit eiusmod mollit pariatur dolore nulla adipisicing. Officia nulla consectetur qui proident non occaecat esse nulla reprehenderit tempor mollit cupidatat. Voluptate qui deserunt nisi ex nisi enim commodo labore excepteur duis amet consectetur. Mollit proident cupidatat laborum esse id officia tempor. Cillum et mollit qui mollit in aliquip ad veniam deserunt velit deserunt incididunt ex. Ex irure minim aliqua laboris sunt et elit amet officia nostrud amet aute. Cillum voluptate magna excepteur culpa exercitation adipisicing mollit deserunt consectetur sit exercitation. Elit exercitation aliqua non dolor et exercitation proident minim laborum sunt amet. Quis reprehenderit deserunt do elit nulla occaecat dolore nisi ullamco proident aute sunt veniam. Occaecat cillum excepteur dolore dolore Lorem ex proident minim aliqua velit incididunt id dolor consectetur. "
+    },
+    {
+      "_id": "123",
+      "messageText": "12342432",
+      "user": {
+        "fullName": "test full name",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?4",
+        "nickName": "Alexxxxxx"
+      },
+      "id": 2
+    },
+    {
+      "_id": "123",
+      "messageText": "the first tweet test with button",
+      "user": {
+        "fullName": "test full name",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?4",
+        "nickName": "Alexxxxxx"
+      },
+      "id": 3
+    },
+    {
+      "_id": "123",
+      "messageText": "jj",
+      "user": {
+        "fullName": "test full name",
+        "avatarUrl": "https://source.unsplash.com/random/100x100?4",
+        "nickName": "Alexxxxxx"
+      },
+      "id": 4
+    }
+  ],
+  "trends": [
+    {
+      "_id": "600471921154310b24b6c8a1",
+      "tag": "Worldwide",
+      "head": "Trending worldwide"
+    },
+    {
+      "_id": "600371921154310b24b6c8a1",
+      "tag": "BreakingNews",
+      "head": "Breaking News"
+    },
+    {
+      "_id": "600271921154310b24b6c8a1",
+      "tag": "Animals",
+      "head": "Animals"
+    },
+    {
+      "_id": "600411921154310b24b6c8a1",
+      "tag": "Tech",
+      "head": "Tech"
+    }
+  ]
+}
